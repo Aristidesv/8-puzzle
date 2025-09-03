@@ -7,10 +7,10 @@ estado_objetivo = [[1,2,3],
 
 # Movimentos 
 movimentos = {
-    'CIMA': (-1, 0),
-    'BAIXO': (1, 0),
-    'ESQUERDA': (0, -1),
-    'DIREITA': (0, 1)
+    'C': (-1, 0),
+    'B': (1, 0),
+    'E': (0, -1),
+    'D': (0, 1)
 }
 
 def imprimir_tabuleiro(tabuleiro):
